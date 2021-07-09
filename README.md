@@ -7,6 +7,7 @@
 
 ## Tecnologias
 - React JS 
+- Scss
 - Typescript
 - Firebase 
   - Realtime DataBase
