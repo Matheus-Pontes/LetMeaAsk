@@ -1,5 +1,5 @@
 # LET ME ASK
-- App Acesse: https://letmeaskfirst.web.app/
+- [Acesso ao site](https://letmeaskfirst.web.app/)
 
 ## Funcionamento 
 - Projeto realizado na 6° edição da NLW, pela RocketSeat.
